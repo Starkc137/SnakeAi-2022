@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Snake2023-v1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Snake2023-v1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
